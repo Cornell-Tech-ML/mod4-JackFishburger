@@ -41,8 +41,11 @@ class Conv2d(minitorch.Module):
         self.bias = RParam(out_channels, 1, 1)
 
     def forward(self, input):
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        """Apply 2D convolution with bias to the input tensor."""
+        conv_result = minitorch.conv2d(input, self.weights.value)
+
+        # Add the bias tensor to the result
+        return conv_result + self.bias.value
 
 
 class Network(minitorch.Module):
@@ -62,17 +65,21 @@ class Network(minitorch.Module):
 
     def __init__(self):
         super().__init__()
-
-        # For vis
         self.mid = None
         self.out = None
-
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        self.conv1 = Conv2d(1, 4, 3, 3)
+        self.conv2 = Conv2d(4, 8, 3, 3)
+        self.linear1 = Linear(392, 64)
+        self.linear2 = Linear(64, C)
 
     def forward(self, x):
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        self.mid = self.conv1.forward(x).relu()
+        self.out = self.conv2.forward(self.mid).relu()
+        flattened_features = minitorch.nn.maxpool2d(self.out, (4, 4)).view(BATCH, 392)
+        linear1_output = self.linear1.forward(flattened_features).relu()
+        if self.training:
+            linear1_output = minitorch.nn.dropout(linear1_output, 0.25)
+        return minitorch.nn.logsoftmax(self.linear2.forward(linear1_output), dim=1)
 
 
 def make_mnist(start, stop):

@@ -1,0 +1,750 @@
+Epoch 1, loss 31.525269850720562, train accuracy: 50.00%
+Validation accuracy: 48.00%
+Best Valid accuracy: 48.00%
+Epoch 2, loss 31.29667086335143, train accuracy: 49.56%
+Validation accuracy: 57.00%
+Best Valid accuracy: 57.00%
+Epoch 3, loss 31.146369022584256, train accuracy: 50.44%
+Validation accuracy: 50.00%
+Best Valid accuracy: 57.00%
+Epoch 4, loss 30.918722079006674, train accuracy: 53.11%
+Validation accuracy: 54.00%
+Best Valid accuracy: 57.00%
+Epoch 5, loss 30.80945680458696, train accuracy: 58.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 66.00%
+Epoch 6, loss 30.59799906844649, train accuracy: 60.00%
+Validation accuracy: 57.00%
+Best Valid accuracy: 66.00%
+Epoch 7, loss 30.31452117228922, train accuracy: 60.44%
+Validation accuracy: 62.00%
+Best Valid accuracy: 66.00%
+Epoch 8, loss 30.133532809065006, train accuracy: 58.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 70.00%
+Epoch 9, loss 29.891828723057422, train accuracy: 63.11%
+Validation accuracy: 56.00%
+Best Valid accuracy: 70.00%
+Epoch 10, loss 29.53863261655168, train accuracy: 64.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 71.00%
+Epoch 11, loss 29.0051747943035, train accuracy: 68.44%
+Validation accuracy: 64.00%
+Best Valid accuracy: 71.00%
+Epoch 12, loss 28.998465354152977, train accuracy: 67.33%
+Validation accuracy: 61.00%
+Best Valid accuracy: 71.00%
+Epoch 13, loss 28.244355524413727, train accuracy: 70.67%
+Validation accuracy: 58.00%
+Best Valid accuracy: 71.00%
+Epoch 14, loss 28.0480378184645, train accuracy: 69.33%
+Validation accuracy: 72.00%
+Best Valid accuracy: 72.00%
+Epoch 15, loss 27.19768249822752, train accuracy: 73.11%
+Validation accuracy: 72.00%
+Best Valid accuracy: 72.00%
+Epoch 16, loss 26.692592466127607, train accuracy: 72.44%
+Validation accuracy: 75.00%
+Best Valid accuracy: 75.00%
+Epoch 17, loss 26.040762595072312, train accuracy: 74.44%
+Validation accuracy: 72.00%
+Best Valid accuracy: 75.00%
+Epoch 18, loss 25.8794418710864, train accuracy: 73.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 75.00%
+Epoch 19, loss 24.928092957320814, train accuracy: 74.44%
+Validation accuracy: 76.00%
+Best Valid accuracy: 76.00%
+Epoch 20, loss 24.220319097751542, train accuracy: 76.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 21, loss 23.588465293575812, train accuracy: 75.78%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 22, loss 23.110086302816555, train accuracy: 75.33%
+Validation accuracy: 73.00%
+Best Valid accuracy: 76.00%
+Epoch 23, loss 22.174016628340365, train accuracy: 76.67%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 24, loss 21.458996568834923, train accuracy: 77.33%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 25, loss 21.138225340043444, train accuracy: 78.89%
+Validation accuracy: 73.00%
+Best Valid accuracy: 76.00%
+Epoch 26, loss 20.89457667539737, train accuracy: 80.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 27, loss 20.324225693956326, train accuracy: 78.00%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 28, loss 20.0654353167021, train accuracy: 77.33%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 29, loss 18.683500885792427, train accuracy: 81.78%
+Validation accuracy: 75.00%
+Best Valid accuracy: 76.00%
+Epoch 30, loss 18.94023739149321, train accuracy: 78.44%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 31, loss 17.919485087193003, train accuracy: 82.44%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 32, loss 16.827253411107122, train accuracy: 82.67%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 33, loss 17.362626418184732, train accuracy: 84.22%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 34, loss 16.772870413791097, train accuracy: 82.67%
+Validation accuracy: 75.00%
+Best Valid accuracy: 76.00%
+Epoch 35, loss 16.066476220368436, train accuracy: 85.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 36, loss 16.110967324621097, train accuracy: 84.67%
+Validation accuracy: 73.00%
+Best Valid accuracy: 76.00%
+Epoch 37, loss 16.374662121939203, train accuracy: 82.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 38, loss 15.244840696500464, train accuracy: 84.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 39, loss 14.753064958912063, train accuracy: 86.67%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 40, loss 14.327225221851075, train accuracy: 86.44%
+Validation accuracy: 73.00%
+Best Valid accuracy: 76.00%
+Epoch 41, loss 14.326757459292986, train accuracy: 83.11%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 42, loss 13.47045831615443, train accuracy: 85.56%
+Validation accuracy: 75.00%
+Best Valid accuracy: 76.00%
+Epoch 43, loss 13.073983989952916, train accuracy: 87.33%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 44, loss 14.062923549856732, train accuracy: 83.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 45, loss 12.859867677025546, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 46, loss 13.012359422670658, train accuracy: 85.33%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 47, loss 12.922291047809203, train accuracy: 86.22%
+Validation accuracy: 65.00%
+Best Valid accuracy: 76.00%
+Epoch 48, loss 12.728889142656275, train accuracy: 86.89%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 49, loss 12.637620668693744, train accuracy: 86.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 50, loss 12.533376772294115, train accuracy: 85.11%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 51, loss 12.332219566301072, train accuracy: 85.78%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 52, loss 12.619389071816983, train accuracy: 84.00%
+Validation accuracy: 65.00%
+Best Valid accuracy: 76.00%
+Epoch 53, loss 12.372025934051678, train accuracy: 84.67%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 54, loss 11.246712974264346, train accuracy: 85.11%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 55, loss 11.61079039142934, train accuracy: 86.67%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 56, loss 12.067162769472626, train accuracy: 86.22%
+Validation accuracy: 65.00%
+Best Valid accuracy: 76.00%
+Epoch 57, loss 12.140814592480693, train accuracy: 85.56%
+Validation accuracy: 65.00%
+Best Valid accuracy: 76.00%
+Epoch 58, loss 11.863649024124474, train accuracy: 85.56%
+Validation accuracy: 65.00%
+Best Valid accuracy: 76.00%
+Epoch 59, loss 10.625475905444635, train accuracy: 85.78%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 60, loss 11.496793475847086, train accuracy: 84.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 61, loss 10.378498254987996, train accuracy: 87.11%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 62, loss 10.810794737631442, train accuracy: 87.11%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 63, loss 10.012707539624794, train accuracy: 86.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 64, loss 10.716122033834523, train accuracy: 86.00%
+Validation accuracy: 73.00%
+Best Valid accuracy: 76.00%
+Epoch 65, loss 10.688244151002014, train accuracy: 84.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 66, loss 10.241536700433434, train accuracy: 86.44%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 67, loss 10.896106020218562, train accuracy: 85.33%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 68, loss 11.329766605604515, train accuracy: 84.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 69, loss 10.24858442445815, train accuracy: 88.44%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 70, loss 10.004775836553542, train accuracy: 87.56%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 71, loss 10.919951354086617, train accuracy: 83.78%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 72, loss 10.422084440585865, train accuracy: 86.89%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 73, loss 9.859525018433299, train accuracy: 87.11%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 74, loss 10.52167051865009, train accuracy: 86.44%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 75, loss 8.93856710005833, train accuracy: 87.56%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 76, loss 10.326346007042144, train accuracy: 84.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 77, loss 10.259186552730027, train accuracy: 85.56%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 78, loss 9.428452809695793, train accuracy: 87.11%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 79, loss 8.63957413381683, train accuracy: 89.11%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 80, loss 9.17826904008398, train accuracy: 85.78%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 81, loss 9.210334226721958, train accuracy: 87.56%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 82, loss 10.082738283514301, train accuracy: 83.78%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 83, loss 9.658020116095866, train accuracy: 88.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 84, loss 9.95781122615198, train accuracy: 85.11%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 85, loss 9.719262108275936, train accuracy: 84.00%
+Validation accuracy: 75.00%
+Best Valid accuracy: 76.00%
+Epoch 86, loss 9.173324923315832, train accuracy: 86.89%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 87, loss 9.032074359717855, train accuracy: 87.33%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 88, loss 9.748012148987858, train accuracy: 86.22%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 89, loss 8.126303103082781, train accuracy: 88.67%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 90, loss 9.020805737097243, train accuracy: 87.11%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 91, loss 9.593493560839846, train accuracy: 86.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 92, loss 8.241866878499515, train accuracy: 88.67%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 93, loss 7.70034998411028, train accuracy: 89.11%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 94, loss 9.897429774557862, train accuracy: 86.67%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 95, loss 8.483636879415394, train accuracy: 88.67%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 96, loss 8.937757142791037, train accuracy: 87.56%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 97, loss 9.898090592190869, train accuracy: 86.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 98, loss 8.393036716722044, train accuracy: 87.33%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 99, loss 9.313492813766777, train accuracy: 86.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 100, loss 8.383080504366342, train accuracy: 88.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 101, loss 9.85398962223512, train accuracy: 86.22%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 102, loss 8.695020133633776, train accuracy: 86.44%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 103, loss 9.656749527593178, train accuracy: 85.56%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 104, loss 8.800678194499113, train accuracy: 86.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 105, loss 9.02568476927611, train accuracy: 86.44%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 106, loss 8.660997232138186, train accuracy: 86.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 107, loss 8.631422138456763, train accuracy: 86.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 108, loss 8.237924591583425, train accuracy: 90.00%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 109, loss 8.136290721647974, train accuracy: 88.22%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 110, loss 9.502117970164049, train accuracy: 85.11%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 111, loss 9.236100029384884, train accuracy: 85.56%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 112, loss 8.926645127811183, train accuracy: 86.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 113, loss 9.36729573259794, train accuracy: 84.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 114, loss 9.187683561436344, train accuracy: 86.22%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 115, loss 7.910988530153885, train accuracy: 88.67%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 116, loss 9.085305474938703, train accuracy: 85.11%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 117, loss 7.854621069662906, train accuracy: 88.89%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 118, loss 8.726494981279227, train accuracy: 87.11%
+Validation accuracy: 74.00%
+Best Valid accuracy: 76.00%
+Epoch 119, loss 8.792438879375798, train accuracy: 85.78%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 120, loss 8.726822613072034, train accuracy: 86.00%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 121, loss 8.9876415375874, train accuracy: 86.67%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 122, loss 8.610002574385149, train accuracy: 86.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 123, loss 9.203885531099967, train accuracy: 86.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 124, loss 8.61117240611412, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 125, loss 8.171671281389843, train accuracy: 88.89%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 126, loss 9.552238084782182, train accuracy: 84.89%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 127, loss 8.628016838513469, train accuracy: 87.56%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 128, loss 8.748390921939055, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 129, loss 9.280771518226226, train accuracy: 86.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 130, loss 8.30101172397642, train accuracy: 86.67%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 131, loss 9.059612373200249, train accuracy: 86.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 132, loss 9.250474076768015, train accuracy: 85.78%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 133, loss 7.406354922363853, train accuracy: 88.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 134, loss 7.6241152657839555, train accuracy: 90.44%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 135, loss 7.7703145767958395, train accuracy: 91.56%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 136, loss 9.52489819448545, train accuracy: 88.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 137, loss 8.522853179033552, train accuracy: 86.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 138, loss 7.731751102104093, train accuracy: 87.11%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 139, loss 9.021180803398419, train accuracy: 85.78%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 140, loss 8.602190841811375, train accuracy: 87.56%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 141, loss 8.822300642440487, train accuracy: 86.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 142, loss 9.090710535807931, train accuracy: 86.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 143, loss 7.85810192763061, train accuracy: 88.22%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 144, loss 8.326582606916721, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 145, loss 7.70742873557066, train accuracy: 89.78%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 146, loss 8.914687856303033, train accuracy: 87.56%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 147, loss 8.882557343183874, train accuracy: 88.67%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 148, loss 8.566472224051484, train accuracy: 87.11%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 149, loss 8.343130291264346, train accuracy: 88.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 150, loss 8.779065014002141, train accuracy: 85.33%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 151, loss 9.29285818367465, train accuracy: 86.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 152, loss 8.305001948048027, train accuracy: 85.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 153, loss 7.94973229342513, train accuracy: 87.78%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 154, loss 8.226966289658298, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 155, loss 8.366437543954639, train accuracy: 85.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 156, loss 8.216417986171212, train accuracy: 88.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 157, loss 9.086634491998208, train accuracy: 84.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 158, loss 7.634496363091751, train accuracy: 87.78%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 159, loss 9.678938536471332, train accuracy: 84.89%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 160, loss 8.718462385691957, train accuracy: 86.00%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 161, loss 8.23250744689503, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 162, loss 8.508845813199478, train accuracy: 86.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 163, loss 8.090063087571707, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 164, loss 7.614916252769144, train accuracy: 88.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 165, loss 8.707610021520987, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 166, loss 9.08931372534713, train accuracy: 85.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 167, loss 7.443464273652367, train accuracy: 87.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 168, loss 8.536195998936448, train accuracy: 87.33%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 169, loss 8.133141238382093, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 170, loss 9.42267703683204, train accuracy: 85.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 171, loss 8.443915946889, train accuracy: 87.56%
+Validation accuracy: 67.00%
+Best Valid accuracy: 76.00%
+Epoch 172, loss 8.449379983926688, train accuracy: 86.67%
+Validation accuracy: 66.00%
+Best Valid accuracy: 76.00%
+Epoch 173, loss 8.370416577485088, train accuracy: 87.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 174, loss 8.56761521071156, train accuracy: 84.89%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 175, loss 8.115328448856118, train accuracy: 87.33%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 176, loss 8.73216157400534, train accuracy: 85.78%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 177, loss 8.357785089489914, train accuracy: 85.78%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 178, loss 8.408917651251103, train accuracy: 88.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 179, loss 7.8716766877794875, train accuracy: 88.22%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 180, loss 9.008356776956663, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 181, loss 7.392858145957847, train accuracy: 87.33%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 182, loss 8.276066411156375, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 183, loss 7.755250440295735, train accuracy: 86.44%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 184, loss 8.225197414535362, train accuracy: 87.56%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 185, loss 6.8090454413957655, train accuracy: 90.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 186, loss 8.120676950001835, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 187, loss 8.994159391369982, train accuracy: 84.44%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 188, loss 7.8755753677519955, train accuracy: 87.11%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 189, loss 8.085637640133452, train accuracy: 87.56%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 190, loss 8.113984318425286, train accuracy: 88.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 191, loss 9.005452412636007, train accuracy: 86.67%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 192, loss 8.983288164266645, train accuracy: 86.00%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 193, loss 8.181336025865114, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 194, loss 8.208815692117447, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 195, loss 9.225824988992736, train accuracy: 86.67%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 196, loss 8.660773753123388, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 197, loss 7.956758310071669, train accuracy: 88.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 198, loss 8.604325186491959, train accuracy: 88.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 199, loss 8.264602121812414, train accuracy: 83.78%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 200, loss 7.616480150628547, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 201, loss 8.015315372725238, train accuracy: 88.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 202, loss 7.883151887722117, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 203, loss 8.09798553944069, train accuracy: 88.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 204, loss 8.989859725324049, train accuracy: 86.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 205, loss 8.390686809220597, train accuracy: 86.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 206, loss 7.964152853479189, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 207, loss 8.825261351246668, train accuracy: 85.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 208, loss 7.083033925917781, train accuracy: 88.44%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 209, loss 8.21647004519276, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 210, loss 7.519739526477831, train accuracy: 88.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 211, loss 8.975976250835155, train accuracy: 84.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 212, loss 7.16200088331482, train accuracy: 88.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 213, loss 7.993737703318842, train accuracy: 87.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 214, loss 7.444784565203474, train accuracy: 88.22%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 215, loss 8.831698507177435, train accuracy: 86.22%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 216, loss 8.829642311908792, train accuracy: 85.11%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 217, loss 7.439463652871382, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 218, loss 7.895036544558739, train accuracy: 88.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 219, loss 8.693037765751379, train accuracy: 84.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 220, loss 8.330372391098111, train accuracy: 87.11%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 221, loss 8.220501898315781, train accuracy: 86.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 222, loss 8.514225837809189, train accuracy: 87.11%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 223, loss 8.570432695954086, train accuracy: 84.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 224, loss 8.079296303755331, train accuracy: 86.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 225, loss 7.990187968237928, train accuracy: 89.11%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 226, loss 8.070200939378653, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 227, loss 7.246439849329673, train accuracy: 88.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 228, loss 9.127921633393214, train accuracy: 85.78%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 229, loss 8.134597409178712, train accuracy: 86.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 230, loss 8.122304139278429, train accuracy: 85.33%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 231, loss 9.130855712854641, train accuracy: 84.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 232, loss 7.212921095313189, train accuracy: 88.22%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 233, loss 7.983898129196848, train accuracy: 87.33%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 234, loss 7.701166170885796, train accuracy: 86.00%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 235, loss 8.181501670197193, train accuracy: 86.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 236, loss 8.385006080589683, train accuracy: 86.22%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 237, loss 8.17808198130804, train accuracy: 86.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 238, loss 8.658417963821964, train accuracy: 86.89%
+Validation accuracy: 69.00%
+Best Valid accuracy: 76.00%
+Epoch 239, loss 8.901967949390261, train accuracy: 84.00%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 240, loss 7.801286738398882, train accuracy: 86.22%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 241, loss 8.17253588751373, train accuracy: 87.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 242, loss 8.577723005096917, train accuracy: 85.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 243, loss 7.939723220084221, train accuracy: 85.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 244, loss 8.258984898465496, train accuracy: 87.78%
+Validation accuracy: 68.00%
+Best Valid accuracy: 76.00%
+Epoch 245, loss 7.394518715328796, train accuracy: 85.78%
+Validation accuracy: 72.00%
+Best Valid accuracy: 76.00%
+Epoch 246, loss 8.675606444092173, train accuracy: 84.89%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 247, loss 7.819642912412293, train accuracy: 86.44%
+Validation accuracy: 71.00%
+Best Valid accuracy: 76.00%
+Epoch 248, loss 8.406307168413846, train accuracy: 89.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 249, loss 7.8591127831937975, train accuracy: 86.67%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
+Epoch 250, loss 8.503913265650104, train accuracy: 85.33%
+Validation accuracy: 70.00%
+Best Valid accuracy: 76.00%
