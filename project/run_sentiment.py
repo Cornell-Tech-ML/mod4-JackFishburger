@@ -34,8 +34,10 @@ class Conv1d(minitorch.Module):
         self.bias = RParam(1, out_channels, 1)
 
     def forward(self, input):
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        """Apply 1D convolution with bias to the input tensor."""
+        conv_result = minitorch.conv1d(input, self.weights.value)
+
+        return conv_result + self.bias.value
 
 
 class CNNSentimentKim(minitorch.Module):
@@ -60,16 +62,26 @@ class CNNSentimentKim(minitorch.Module):
         dropout=0.25,
     ):
         super().__init__()
+
+        # Store model hyperparameters of the CNN including the feature map size and dropout rate
         self.feature_map_size = feature_map_size
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        self.dropout = dropout
+
+        # Initialize a list of three parallel 1D convolutional layers for furture usages
+        # Each layer has different kernel width (filter_size) but same number of input and output channels
+        self.conv_layer1 = Conv1d(embedding_size, feature_map_size, filter_sizes[0])
+        self.conv_layer2 = Conv1d(embedding_size, feature_map_size, filter_sizes[1])
+        self.conv_layer3 = Conv1d(embedding_size, feature_map_size, filter_sizes[2])
+        self.linear = Linear(feature_map_size, 1)
 
     def forward(self, embeddings):
-        """
-        embeddings tensor: [batch x sentence length x embedding dim]
-        """
-        # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        """Forward pass of the CNN Sentiment model according to the instructions provided in the assignment."""
+        conv_outputs = [layer.forward(embeddings.permute(0, 2, 1)).relu() for layer in [self.conv_layer1, self.conv_layer2, self.conv_layer3]]
+        combined_features = sum(minitorch.nn.max(output, 2) for output in conv_outputs)
+        linear_output = self.linear(combined_features.view(combined_features.shape[0], self.feature_map_size))
+        if self.training:
+            linear_output = minitorch.nn.dropout(linear_output, self.dropout)
+        return linear_output.sigmoid().view(linear_output.shape[0])
 
 
 # Evaluation helper methods

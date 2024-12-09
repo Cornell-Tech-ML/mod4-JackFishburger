@@ -30,9 +30,17 @@ def test_avg(t: Tensor) -> None:
 
 @pytest.mark.task4_4
 @given(tensors(shape=(2, 3, 4)))
-def test_max(t: Tensor) -> None:
-    # TODO: Implement for Task 4.4.
-    raise NotImplementedError("Need to implement for Task 4.4")
+def test_max_combined(t: Tensor) -> None:
+    t2 = minitorch.Max.apply(t, t._ensure_tensor(2))
+    for i in range(t.shape[0]):
+        for j in range(t.shape[1]):
+            expected_max = max(t[i, j, k] for k in range(t.shape[2]))
+            assert (
+                t2[i, j, 0] == expected_max
+            ), f"Max mismatch: {t2[i, j, 0]} != {expected_max}"
+    noise_tensor = 0.1 * (minitorch.rand(t.shape, backend=t.backend) - 0.5)
+    t_perturbed = t + noise_tensor
+    minitorch.grad_check(minitorch.Max.apply, t_perturbed, t._ensure_tensor(0))
 
 
 @pytest.mark.task4_4
