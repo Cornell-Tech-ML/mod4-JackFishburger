@@ -904,3 +904,5 @@ Epoch 20 loss 0.3357225514246618 valid acc 16/16
 Epoch 20 loss 0.1858959455596214 valid acc 16/16
 Epoch 20 loss 0.12203148291734925 valid acc 16/16
 Epoch 20 loss 0.045501263682765414 valid acc 16/16
+
+Early Stopping at epoch 20
